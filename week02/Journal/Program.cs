@@ -1,3 +1,7 @@
+// Exceeded requirements:
+// Added input validation using try-catch to prevent crashes from invalid input.
+// Automatically displays journal entries after loading a file.
+
 using System;
 
 class Program
